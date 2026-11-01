@@ -1,5 +1,7 @@
 # AIHOT — self-run AI hot-topics site with a daily digest. Deploy on Railway with one click.
 
+
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/jTgCdD)
 Packages [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) (MIT, pinned to commit edfa18f) for Railway:
 one app container (migrations + seed, then API, worker and web) plus PostgreSQL 17. Zero deploy-time inputs.
 
